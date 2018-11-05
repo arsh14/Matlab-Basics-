@@ -1,0 +1,10 @@
+t=1:1:10
+x=t.*sin(t)
+y=(t-1)./(t+1)
+z=sin(t.*t)./(t.*t)
+subplot(3,1,1)
+plot(x,t)
+subplot(3,1,2)
+plot(y,t)
+subplot(3,1,3)
+plot(z,t)
