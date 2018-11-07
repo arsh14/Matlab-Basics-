@@ -1,0 +1,14 @@
+t=linspace(0,2*pi,200)
+f=exp(-t./5).*sin(t);
+subplot(2,2,1)
+stem(t,f)
+title('stem');
+subplot(2,2,2)
+stairs(t,f)
+title('stairs');
+subplot(2,2,3)
+compass(f)
+title('compass');
+subplot(2,2,4)
+comet(t,f)
+title('comet');

@@ -16,3 +16,15 @@ x=0,1.5,3,4,5,7,9,10.
 6.Plot sin and cos functions in same plot.
 
 7.Plot sint , t and t-(t^3/6)+(t^5/20).
+
+8.Show the poplation of 5 states using bar graph and a pie chart as well.
+
+9.Plot a two different functions with the same x axis.
+
+10.Plot function with stem,stairs,compass and comet.
+
+11.Plot the mesh and countor for the following function: xy(x^2-y^2)/(x^2+y^2) 
+
+12.Represent a 3d shape using hot colors by using any function.
+
+13.Draw a waterfall.
