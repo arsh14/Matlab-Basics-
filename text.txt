@@ -2,6 +2,7 @@ Basic programming, use of basic functions of Matlab is shown.
 
 Answers for the following questions are given:
 
+
 1.Equation of a straight line is y=mx+c.Compute y coordinates of a line with a slope m=0.5,c=-2 at the following x coordinates and plot it.
 x=0,1.5,3,4,5,7,9,10.
 
