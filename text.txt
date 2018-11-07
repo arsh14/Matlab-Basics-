@@ -11,3 +11,8 @@ x=0,1.5,3,4,5,7,9,10.
 
 4.Form a random 4x3 matrix , vector v=0 to 12 and m=[sinv ; cosv] find size of m and v and extract the 1st 10 elements of each row and display them as column.
 
+5.Plot (a)tsint (b)e^(-t) with the help of semilogx, semilogy and loglog.
+
+6.Plot sin and cos functions in same plot.
+
+7.Plot sint , t and t-(t^3/6)+(t^5/20).
